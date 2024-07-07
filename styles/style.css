@@ -99,7 +99,12 @@ nav ul li a{
 .banner-profile-pic{
     width: 580px;
 }
-
+.btn-phn{
+    background-color: #ffffff;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    margin-left: 30px;
+}
 /* Main styles */
 main{
     max-width: 1140px;
